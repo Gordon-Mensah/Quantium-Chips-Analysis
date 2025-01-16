@@ -14,24 +14,29 @@ This project provides strategic insights and actionable recommendations for the 
 
 ## 📂 **Repository Structure**
 
-### **1. Data**
-- **`QVI_data.csv`**: Cleaned and merged dataset used for the analysis.
-- **`QVI_purchase_behaviour.csv`** & **`QVI_transaction_data.xlsx`**: Original datasets provided by Quantium.
-
-### **2. Analysis**
+### **1. Analysis**
 - **`QVI_Chips_Analysis.ipynb`**: Jupyter notebook for Task 1 insights (customer behavior analysis).
 - **`QVI_Trial_vs_Control.pdf.pdf`**: Task 2 report comparing trial and control stores.
+
+### **2. Data**
+- **`QVI_data.zip`**: Contains the original cleaned and processed dataset for the analysis.
+- **`QVI_purchase_behaviour.csv`**: Original dataset detailing purchase behavior.
+- **`QVI_transaction_data.xlsx`**: Original dataset detailing transaction data.
+- **`cleaned_merged_data (2).zip`**: Compressed file containing the final processed dataset.
 
 ### **3. Presentation**
 - **`Chips_Category_Strategic_Insights_Presentation.pptx`**: Final PowerPoint presentation summarizing insights and recommendations.
 - **`Chips_Category_Strategic_Insights_Presentation.pdf`**: PDF version of the presentation for easy sharing.
 
 ### **4. Visualizations**
+- **`pre_trial_metrics_comparison.png`**: Comparison of pre-trial metrics for trial vs control stores.
 - **`sales_by_lifestage_premium.png`**: Sales by life stage and premium segment.
 - **`sales_by_pack_size.png`**: Sales by pack size.
 - **`sales_heatmap.png`**: Heatmap of sales contribution by life stage and premium segment.
 - **`sales_pie_lifestage.png`**: Pie chart of sales contribution by life stage.
+- **`stacked_bar_lifestage_affluence.png`**: Proportion of customers by affluence and life stage.
 - **`trial_vs_control_trends.png`**: Sales trends for trial vs control stores.
+
 
 ---
 
@@ -66,7 +71,7 @@ This project provides strategic insights and actionable recommendations for the 
 ---
 
 ## 🤝 **Contributors**
-- **[John Jerry Gordon-Mensah]** - Lead Analyst  
+- **John Jerry Gordon-Mensah** - Lead Analyst  
 - Quantium Retail Analytics Team
 
 ---
@@ -74,7 +79,7 @@ This project provides strategic insights and actionable recommendations for the 
 ## 📬 **Contact**
 For questions or further information, please reach out to:
 - **Email**: gordonmensahj@gmail.com
-- **LinkedIn**: [John Jerry Gordon-Mensah](https://www.linkedin.com/in/jayejaye))
+- **LinkedIn**: [John Jerry Gordon-Mensah](https://www.linkedin.com/in/jayejaye)
 
 ---
 
