@@ -22,16 +22,16 @@ This project provides strategic insights and actionable recommendations for the 
 - **`QVI_Chips_Analysis.ipynb`**: Jupyter notebook for Task 1 insights (customer behavior analysis).
 - **`QVI_Trial_vs_Control.pdf.pdf`**: Task 2 report comparing trial and control stores.
 
-### **3. Visualizations**
+### **3. Presentation**
+- **`Chips_Category_Strategic_Insights_Presentation.pptx`**: Final PowerPoint presentation summarizing insights and recommendations.
+- **`Chips_Category_Strategic_Insights_Presentation.pdf`**: PDF version of the presentation for easy sharing.
+
+### **4. Visualizations**
 - **`sales_by_lifestage_premium.png`**: Sales by life stage and premium segment.
 - **`sales_by_pack_size.png`**: Sales by pack size.
 - **`sales_heatmap.png`**: Heatmap of sales contribution by life stage and premium segment.
 - **`sales_pie_lifestage.png`**: Pie chart of sales contribution by life stage.
 - **`trial_vs_control_trends.png`**: Sales trends for trial vs control stores.
-
-### **4. Presentation**
-- **`Chips_Category_Strategic_Insights_Presentation.pptx`**: Final PowerPoint presentation summarizing insights and recommendations.
-- **`Chips_Category_Strategic_Insights_Presentation.pdf`**: PDF version of the presentation for easy sharing.
 
 ---
 
