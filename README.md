@@ -85,8 +85,3 @@ For questions or further information, please reach out to:
 
 Thank you for exploring this project!
 ```
-
-### How to Use It:
-1. Save the above content into a file named `README.md` in your project directory.
-2. Update the placeholders (`<your-username>`, `your-email@example.com`, etc.) with your actual details.
-3. Push the `README.md` file along with the rest of your project files to GitHub.
